@@ -18,4 +18,4 @@ Then Validate the home page and User should click register button
 Then Enter the details "THarini","M","tharinimtcs@gmail.com","Tharini","Tharini"
 Then Click on save button
 
-Scenario: singam
+Scenario: singam singammmm
